@@ -1,0 +1,7 @@
+C:\Users\danil\OneDrive\Учеба\4 2\Криптографические методы защиты информации\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\danil\OneDrive\Учеба\4 2\Криптографические методы защиты информации\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\danil\OneDrive\Учеба\4 2\Криптографические методы защиты информации\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\danil\OneDrive\Учеба\4 2\Криптографические методы защиты информации\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\danil\OneDrive\Учеба\4 2\Криптографические методы защиты информации\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Учеба\4 2\Криптографические методы защиты информации\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\danil\OneDrive\Учеба\4 2\Криптографические методы защиты информации\Lab1\Lab1\obj\Debug\Lab1.pdb
